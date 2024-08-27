@@ -6,12 +6,12 @@
 
     <groupId>org.dw363</groupId>
     <artifactId>QuitMess</artifactId>
-    <version>1.0.1-OmxRealm</version>
+    <version>1.0.2-OmxRealm</version>
     <packaging>jar</packaging>
 
     <name>QuitMess</name>
 
-    <description>Плагин отображающее кастомное сообщение о выходе игрока только с правами, создано специально для
+    <description>Плагин отображающее кастомное сообщение о выходе игрока только с правами. Создано специально для
         сервера OmxRealm. Project The OMX
     </description>
     <properties>

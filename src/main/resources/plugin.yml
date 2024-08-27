@@ -1,9 +1,9 @@
 name: QuitMess
-version: '1.0.1-OmxRealm'
+version: '1.0.2-OmxRealm'
 main: org.dw363.QuitMess
 api-version: '1.21'
 load: STARTUP
 depend: [PlaceholderAPI]
 authors: [dw363]
-description: Плагин отображающее кастомное сообщение о выходе игрока только с правами, создано специально для сервера OmxRealm. Project The OMX
+description: Плагин отображающее кастомное сообщение о выходе игрока только с правами. Создано специально для сервера OmxRealm. Project The OMX
 website: https://github.com/Hacker123ter
