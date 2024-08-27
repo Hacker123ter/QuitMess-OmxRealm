@@ -6,7 +6,7 @@
 
     <groupId>org.dw363</groupId>
     <artifactId>QuitMess</artifactId>
-    <version>1.0.0-OmxRealm</version>
+    <version>1.0.1-OmxRealm</version>
     <packaging>jar</packaging>
 
     <name>QuitMess</name>

@@ -1,5 +1,5 @@
 name: QuitMess
-version: '${project.version}'
+version: '1.0.1-OmxRealm'
 main: org.dw363.QuitMess
 api-version: '1.21'
 load: STARTUP
